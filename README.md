@@ -1,15 +1,18 @@
-# Portfolio Website
+# Web Development Projects
 
-Responsive personal portfolio website made with HTML, CSS, JavaScript.
+A collection of responsive frontend projects built using HTML, CSS, JavaScript.
 
-## Features
-- Responsive design
-- Smooth scrolling
-- Contact form
-- Animated sections
+## Projects Included
+- Portfolio Website
+- Calculator App
+- Login Form
+- Landing Page
 
-## Technologies
-HTML, CSS, JavaScript
+## Tech Stack
+HTML5, CSS3, JavaScript
 
 ## Live Demo
-Coming soon
+Coming Soon
+
+## Author
+Md Adib Zawad
