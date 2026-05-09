@@ -6,7 +6,7 @@ Frontend web development projects using HTML, CSS & JavaScript.
 
 ## 📌 Portfolio Website
 
-Responsive personal portfolio website.
+Responsive personal portfolio website..
 
 ### 🚀 Features
 - Responsive Design
