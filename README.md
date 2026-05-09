@@ -1,18 +1,46 @@
-# Web Development Projects
+# 🌐 Web Development Projects
 
-A collection of responsive frontend projects built using HTML, CSS, JavaScript.
+Frontend web development projects using HTML, CSS & JavaScript.
 
-## Projects Included
-- Portfolio Website
-- Calculator App
-- Login Form
-- Landing Page
+---
 
-## Tech Stack
-HTML5, CSS3, JavaScript
+## 📌 Portfolio Website
 
-## Live Demo
-Coming Soon
+Responsive personal portfolio website.
 
-## Author
-Md Adib Zawad
+### 🚀 Features
+- Responsive Design
+- Smooth Scrolling
+- Modern UI
+- Animated Sections
+
+### 🛠 Technologies
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](portfolio-website/assets/images/preview.png)
+
+---
+
+## 📂 Project Structure
+
+```bash
+portfolio-website/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+    ├── images/
+    └── icons/
+```
+
+---
+
+## 👨‍💻 Author
+
+Md. Adib Zawad
